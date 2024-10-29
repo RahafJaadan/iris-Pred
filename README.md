@@ -1,6 +1,8 @@
 ```
 # Flower Species Prediction Using Machine Learning 
-This project leverages machine learning to classify flower species based on specific characteristics, such as petal length and width. Trained on the Iris Dataset, the model can accurately predict whether a flower is of the Setosa, Versicolor, or Virginica species. The project is deployed with **Streamlit** to offer an interactive experience for users.
+This project leverages machine learning to classify flower species based on specific characteristics, such as petal length and width. Trained on the Iris Dataset, the model can accurately predict whether a flower is of the Setosa, Versicolor, or Virginica species.
+ The project is deployed with **Streamlit** to offer an interactive experience for users.
+
 ## Included Files 
 - `requirements.txt`: Contains the libraries needed to run the project.
 - `trained_model.sav`: The trained model file.
